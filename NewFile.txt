@@ -1,0 +1,6 @@
+Student information : 
+Name   DEPT     CGPA  
+
+john   CSE      4
+
+Smith  CSE      3.90
